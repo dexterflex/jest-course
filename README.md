@@ -1,1 +1,3 @@
 # jest-course
+
+readme changed
